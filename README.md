@@ -1,2 +1,2 @@
 # odin-recipe
-practicing
+This is my Odin Project first test website. I am practicing creating a repository and connecting my project to a new repository on Github. I am practicing how to add titles, paragraphs, images, and links. I am practicing adding versions into the stage file, where i will then commit them, and push them to remote repository Github.
